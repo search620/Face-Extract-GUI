@@ -1,5 +1,5 @@
 # Face-Extract-GUI
-This is a code base that provides face extract and detection trigger by parameters and also has a preview window for convincing of use.
+This is a code base that provides face extract and detection trigger by parameters and also has a preview window for convenience of use.
 
 
 This video demonstrates how it looks and works.
